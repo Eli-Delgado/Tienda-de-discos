@@ -1,0 +1,128 @@
+
+ TODAS LAS FACTURAS DETALLADAS 
+ 
+
+FOLIO: 	00001                       		FECHA:     	21/11/2018
+
+ Datos del cliente:
+ Nombres: 	Eli Israel           
+ Apellidos: 	Delgado Escarcega    
+ Direccion:
+ Calle: 	Hermanos Larralde    		No. 	00308
+ Colonia: 	Agua Nueva          
+ C.P: 	67180
+
+ CANTIDAD   	DESCRIPCION          		PRECIO UNITARIO      	IMPORTE             
+
+ 01         	Empires              		120.00               	120.00              
+ 01         	Not. is imposible    		125.00               	125.00              
+
+TOTAL: 	  245.00 
+
+
+====================================================================
+ 
+
+FOLIO: 	00002                       		FECHA:     	21/11/2018
+
+ Datos del cliente:
+ Nombres: 	Francisco            
+ Apellidos: 	Martinez             
+ Direccion:
+ Calle: 	Rio Grande           		No. 	00413
+ Colonia: 	Riveras del rio     
+ C.P: 	31415
+
+ CANTIDAD   	DESCRIPCION          		PRECIO UNITARIO      	IMPORTE             
+
+ 02         	Agradecido           		130.00               	260.00              
+ 01         	The Garden           		115.00               	115.00              
+
+TOTAL: 	  375.00 
+
+
+====================================================================
+ 
+
+FOLIO: 	00003                       		FECHA:     	21/11/2018
+
+ Datos del cliente:
+ Nombres: 	Antonio              
+ Apellidos: 	Placencia            
+ Direccion:
+ Calle: 	Los Girasoles        		No. 	04672
+ Colonia: 	Las flores          
+ C.P: 	87593
+
+ CANTIDAD   	DESCRIPCION          		PRECIO UNITARIO      	IMPORTE             
+
+ 01         	Empires              		120.00               	120.00              
+ 01         	Not. is imposible    		125.00               	125.00              
+ 01         	The Garden           		115.00               	115.00              
+ 01         	Agradecido           		130.00               	130.00              
+
+TOTAL: 	  490.00 
+
+
+====================================================================
+ 
+
+FOLIO: 	00004                       		FECHA:     	22/11/2018
+
+ Datos del cliente:
+ Nombres: 	Eli Delgado          
+ Apellidos: 	Escarcega            
+ Direccion:
+ Calle: 	Hermanos Larralde    		No. 	00308
+ Colonia: 	Agua Nueva          
+ C.P: 	67180
+
+ CANTIDAD   	DESCRIPCION          		PRECIO UNITARIO      	IMPORTE             
+
+ 01         	Empires              		120.00               	120.00              
+ 01         	Not. is imposible    		125.00               	125.00              
+
+TOTAL: 	  245.00 
+
+
+====================================================================
+ 
+
+FOLIO: 	00005                       		FECHA:     	29/05/2020
+
+ Datos del cliente:
+ Nombres: 	                     
+ Apellidos: 	eli                  
+ Direccion:
+ Calle: 	Hnls}                		No. 	00002
+ Colonia: 	12e                 
+ C.P: 	67180
+
+ CANTIDAD   	DESCRIPCION          		PRECIO UNITARIO      	IMPORTE             
+
+ 03         	Empires              		120.00               	360.00              
+
+TOTAL: 	  360.00 
+
+
+====================================================================
+ 
+
+FOLIO: 	00006                       		FECHA:     	14/03/2021
+
+ Datos del cliente:
+ Nombres: 	Eli                  
+ Apellidos: 	Delgado Escarcega    
+ Direccion:
+ Calle: 	Hermanos Larralde    		No. 	00308
+ Colonia: 	Agua Nueva          
+ C.P: 	67180
+
+ CANTIDAD   	DESCRIPCION          		PRECIO UNITARIO      	IMPORTE             
+
+ 01         	Empires              		120.00               	120.00              
+
+TOTAL: 	  120.00 
+
+
+====================================================================

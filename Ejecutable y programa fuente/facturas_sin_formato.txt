@@ -1,0 +1,7 @@
+FACTURAS SIN FORMATO 
+00001      Eli Israel           Delgado Escarcega    Hermanos Larralde    00308      Agua Nueva           67180        245.00   21    11    2018  02    01    Empires              120.00       120.00   01    Not. is imposible    125.00       125.00   
+00002      Francisco            Martinez             Rio Grande           00413      Riveras del rio      31415        375.00   21    11    2018  02    02    Agradecido           130.00       260.00   01    The Garden           115.00       115.00   
+00003      Antonio              Placencia            Los Girasoles        04672      Las flores           87593        490.00   21    11    2018  04    01    Empires              120.00       120.00   01    Not. is imposible    125.00       125.00   01    The Garden           115.00       115.00   01    Agradecido           130.00       130.00   
+00004      Eli Delgado          Escarcega            Hermanos Larralde    00308      Agua Nueva           67180        245.00   22    11    2018  02    01    Empires              120.00       120.00   01    Not. is imposible    125.00       125.00   
+00005                           eli                  Hnls}                00002      12e                  67180        360.00   29    05    2020  01    03    Empires              120.00       360.00   
+00006      Eli                  Delgado Escarcega    Hermanos Larralde    00308      Agua Nueva           67180        120.00   14    03    2021  01    01    Empires              120.00       120.00   

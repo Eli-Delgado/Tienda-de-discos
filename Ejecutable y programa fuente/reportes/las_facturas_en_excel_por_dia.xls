@@ -1,0 +1,11 @@
+
+FACTURAS 	(dia)
+
+ FOLIO      	CLIENTE                                   				FECHA          	TOTAL      
+
+ 00001      	Eli Israel           		Delgado Escarcega    		21/11/2018     	245.00     
+ 00002      	Francisco            		Martinez             		21/11/2018     	375.00     
+ 00003      	Antonio              		Placencia            		21/11/2018     	490.00     
+
+
+TOTAL: 	 1110.00

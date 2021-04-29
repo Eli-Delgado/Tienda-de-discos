@@ -1,0 +1,5 @@
+CODIGO               ALBUM                ARTISTA              GENERO               PRECIO               EXISTENCIA           ESTADO               
+00001                Empires              Hillsong             Gospel               120.00               000                  1                    
+00002                Not. is imposible    PlanetShakers        Rock                 125.00               005                  1                    
+00003                The Garden           Kari Jobe            Gospel               115.00               011                  1                    
+00004                Agradecido           Ricardo Montaner     Pop                  130.00               010                  1                    
